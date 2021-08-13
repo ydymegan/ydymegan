@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello! I'm Megan! 👋
 
+- 👩‍💻  &nbsp; I'm a Year 2 Information Systems Undegraduate at the National University of Singapore 
+- 📫  &nbsp; Reach me at meganyee@comp.nus.edu.sg or on [Linkedin](https://www.linkedin.com/in/megan-yee/)!
+
+<!-- ### Tools & Technologies 
+ -->
 <!--
 **ydymegan/ydymegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
