@@ -1,6 +1,6 @@
 ### Hello! I'm Megan! 👋
 
-- 👩‍💻  &nbsp; I'm a Year 2 Information Systems Undegraduate at the National University of Singapore 
+- 👩‍💻  &nbsp; I'm a Year 2 Information Systems Undergraduate at the National University of Singapore 
 - 🔨  &nbsp; Currently working on my personal website! 
 - 💻  &nbsp; Tools & Technologies: Java, Javascript, HTML & CSS, ReactJS, Firebase
 - 📫  &nbsp; Reach me at meganyee@comp.nus.edu.sg or on [Linkedin](https://www.linkedin.com/in/megan-yee/)!
