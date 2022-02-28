@@ -1,9 +1,10 @@
 ### Hello! I'm Megan! 👋
 
 - 👩‍💻  &nbsp; I'm a Year 2 Information Systems Undergraduate at the National University of Singapore 
+- 💬  &nbsp; Pronouns: she/her
 - 💻  &nbsp; Tools & Technologies: Java, JavaScript, TypeScript, HTML & CSS, ReactJS, Redux, Angular, Firebase
 - 📫  &nbsp; Reach me at meganyee@comp.nus.edu.sg or on [Linkedin](https://www.linkedin.com/in/megan-yee/)!
-- 💬  &nbsp; Pronouns: she/her
+
 
 <!-- ### Tools & Technologies 
  -->
