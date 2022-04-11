@@ -5,7 +5,7 @@
 - 🔨  &nbsp; Currently working on my personal website!
 - 📫  &nbsp; Reach me at meganyee@comp.nus.edu.sg or on [Linkedin](https://www.linkedin.com/in/megan-yee/)!
 
-
+![Megan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ydymegan&count_private=true&show_icons=true&theme=tokyonight)
 <!-- ### Tools & Technologies 
  -->
 <!--
